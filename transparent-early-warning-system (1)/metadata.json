@@ -1,0 +1,6 @@
+{
+  "name": "Transparent Disengagement Early-Warning Tool",
+  "description": "Multi-signal, explainable, and non-punitive early-warning support prioritisation system for online learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
